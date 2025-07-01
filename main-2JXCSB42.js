@@ -17,7 +17,7 @@ import{a as M,d as j,f as k,g as V,h as I,i as _}from"./chunk-BCEJU3MW.js";impor
               0-1.31.468-2.38 1.235-3.22-.125-.303-.535-1.523.115-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.4 3-.405
               1.02.005 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.655 1.653.245 2.873.12 3.176.77.84
               1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.43.37.815 1.096.815 2.21 0 1.597-.015
-              2.887-.015 3.28 0 .32.21.7.825.58C20.565 21.795 24 17.295 24 12c0-6.63-5.37-12-12-12z`],["href","www.linkedin.com/in/juan-ra\xFAl-zamora-ibacache-b00085242","target","_blank","aria-label","LinkedIn",1,"hover:text-gray-600","dark:hover:text-white/75","transition-colors"],["d",`M19 0h-14c-2.76 0-5 2.24-5 5v14c0 2.76 2.24
+              2.887-.015 3.28 0 .32.21.7.825.58C20.565 21.795 24 17.295 24 12c0-6.63-5.37-12-12-12z`],["href","https://www.linkedin.com/in/juan-ra\xFAl-zamora-ibacache-b00085242","target","_blank","aria-label","LinkedIn",1,"hover:text-gray-600","dark:hover:text-white/75","transition-colors"],["d",`M19 0h-14c-2.76 0-5 2.24-5 5v14c0 2.76 2.24
               5 5 5h14c2.76 0 5-2.24 5-5v-14c0-2.76-2.24-5-5-5zm-11
               19h-3v-11h3v11zm-1.5-12.27c-.97
               0-1.75-.79-1.75-1.75s.78-1.75
